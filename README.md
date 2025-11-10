@@ -73,6 +73,9 @@ mock-ecom-cart/
     Clone The Repo
     git clone https://github.com/MukulJha39/mock-ecom-cart.git
 cd mock-ecom-cart
+Screenshot of websites:
+<img width="615" height="616" alt="Screenshot 2025-11-11 013553" src="https://github.com/user-attachments/assets/45739f9e-41b5-461d-82b8-cd9b1eba2eaf" />
+
 🤝 Author
 
 Mukul Jha
