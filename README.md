@@ -74,7 +74,16 @@ mock-ecom-cart/
     git clone https://github.com/MukulJha39/mock-ecom-cart.git
 cd mock-ecom-cart
 Screenshot of websites:
-<img width="615" height="616" alt="Screenshot 2025-11-11 013553" src="https://github.com/user-attachments/assets/45739f9e-41b5-461d-82b8-cd9b1eba2eaf" />
+
+<img width="215" height="316" alt="Screenshot 2025-11-11 013631" src="https://github.com/user-attachments/assets/106fcc80-780d-45a5-95e4-33dbeb73de1d" />
+
+
+<img width="215" height="316" alt="Screenshot 2025-11-11 013631" src="https://github.com/user-attachments/assets/f28b2b0a-f8cf-4da3-8f4c-9491e7f43d98" />
+
+
+<img width="215" height="316" alt="Screenshot 2025-11-11 013613" src="https://github.com/user-attachments/assets/1126ef1e-5ef8-44c0-9d1a-4d36ea314dd9" />
+
+<img width="215" height="316" alt="Screenshot 2025-11-11 013553" src="https://github.com/user-attachments/assets/45739f9e-41b5-461d-82b8-cd9b1eba2eaf" />
 
 🤝 Author
 
