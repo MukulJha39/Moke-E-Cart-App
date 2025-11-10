@@ -1,0 +1,80 @@
+overview
+A full-stack shopping cart application built for the Vibe Commerce technical screening.
+Users can view products, add/remove items to cart, update quantities, view totals, and perform a mock checkout with a generated receipt.
+This project demonstrates:
+
+Full CRUD e-commerce flow
+
+RESTful API integration (Node + Express)
+
+Database persistence (MongoDB)
+
+Responsive React frontend (Bootstrap)
+
+Clean, modular structure for real-world scalability
+Tech Stack
+
+Frontend
+
+⚛️ React.js (v18)
+
+🧭 React Router DOM (for navigation)
+
+📡 Axios (for API requests)
+
+🎨 Bootstrap 5
+
+Backend
+
+🟢 Node.js + Express.js
+
+🍃 MongoDB + Mongoose
+
+🌐 CORS, dotenv, morgan (for development convenience)
+⚙️ Features
+Feature	Description
+🏬 Product Grid	Displays mock products (name, price, image)
+🛒 Cart Management	Add/remove items, change quantity, view totals
+💰 Checkout	Enter name/email, generate mock receipt
+💾 MongoDB Persistence	Cart & product data stored persistently
+🔁 Responsive UI	Fully responsive layout using Bootstrap
+🚫 Error Handling	Graceful fallbacks for all API operations
+🧾 API Integration	Frontend ↔ Backend REST API
+Folder Structure:
+mock-ecom-cart/
+│
+├── backend/
+│   ├── models/
+│   │   ├── productModel.js
+│   │   └── cartModel.js
+│   ├── server.js
+│   ├── package.json
+│   └── .env
+│
+└── frontend/
+    ├── src/
+    │   ├── api/
+    │   │   └── axios.js
+    │   ├── components/
+    │   │   ├── Navbar.jsx
+    │   │   ├── Products.jsx
+    │   │   ├── Cart.jsx
+    │   │   └── CheckoutModal.jsx
+    │   ├── pages/
+    │   │   ├── HomePage.jsx
+    │   │   ├── CartPage.jsx
+    │   │   └── CheckoutPage.jsx
+    │   ├── App.jsx
+    │   ├── index.js
+    │   └── App.css
+    ├── package.json
+    └── .env
+
+    Clone The Repo
+    git clone https://github.com/MukulJha39/mock-ecom-cart.git
+cd mock-ecom-cart
+🤝 Author
+
+Mukul Jha
+Frontend & Full Stack Developer
+📧 mukujha430@gmail.com
